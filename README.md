@@ -5,3 +5,6 @@ In your notes copy the table and complete it.
 ![image](https://github.com/MrAStone/StartEndCodeFixingTask/assets/60425249/2c96d63f-1681-4b62-b50b-48fb68eba186)
 
 Do the coding task in C#
+normal - true, 15
+erroneous - false, 
+boundary - true, 23
